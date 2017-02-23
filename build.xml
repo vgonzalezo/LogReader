@@ -1,7 +1,7 @@
 <project name="MyProject" default="dist" basedir=".">
 	<description>LogReader</description>
 
-	<property name="src" location="src" />
+	<property name="src" location="src/main/java" />
 	<property name="build" location="build" />
 	<property name="dist" location="dist" />
 

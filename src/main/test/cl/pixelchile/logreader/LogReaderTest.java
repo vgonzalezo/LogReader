@@ -1,6 +1,6 @@
-import org.junit.Test;
+package cl.pixelchile.logreader;
 
-import cl.pixelchile.logreader.LogReader;
+import org.junit.Test;
 
 public class LogReaderTest {
 
